@@ -1,4 +1,4 @@
-## Vampire Fmod Repository
+## Fmod Repository
 This submodule repository syncs between https://github.com/Maoyeedy/FmodProject and plastic://maoyidi.cloud/repos/FmodProject.
 
 ### To Sync in PlasticSCM:
